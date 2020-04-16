@@ -1,6 +1,5 @@
 # dockerapp
-Project source code for James Lee's Docker course.
+Proyecto de aplicativo docker, migrado y traducido del curso de "James Lee"
 
-Check out our latest DevOps PDF book. asdf
-
-https://www.level-up.one/devops-pdf-book/
+Creditos.
+https://twitter.com/jamestopcoder
